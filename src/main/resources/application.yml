@@ -18,5 +18,5 @@ spring:
         expose-spring-macro-helpers: true
     data:
       mongodb:
-        uri: mongodb://admin:123456@mongo:27017/wb?authSource=admin&readPreference=primary&ssl=false
+        uri: mongodb://192.168.61.61:27017/zh_test
 
